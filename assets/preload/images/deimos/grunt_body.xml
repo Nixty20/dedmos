@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grunt body.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grunt body idle instance 10000" x="16" y="16" width="225" height="399" frameX="0" frameY="-5" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10001" x="16" y="16" width="225" height="399" frameX="0" frameY="-5" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10002" x="254" y="16" width="221" height="399" frameX="-1" frameY="-5" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10003" x="254" y="16" width="221" height="399" frameX="-1" frameY="-5" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10004" x="488" y="16" width="200" height="403" frameX="-9" frameY="-1" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10005" x="488" y="16" width="200" height="403" frameX="-9" frameY="-1" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10006" x="701" y="16" width="194" height="404" frameX="-11" frameY="0" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10007" x="701" y="16" width="194" height="404" frameX="-11" frameY="0" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10008" x="16" y="433" width="194" height="404" frameX="-11" frameY="0" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10009" x="16" y="433" width="194" height="404" frameX="-11" frameY="0" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10010" x="223" y="433" width="193" height="404" frameX="-11" frameY="0" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10011" x="223" y="433" width="193" height="404" frameX="-11" frameY="0" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10012" x="223" y="433" width="193" height="404" frameX="-11" frameY="0" frameWidth="225" frameHeight="404"/>
+	<SubTexture name="grunt body idle instance 10013" x="223" y="433" width="193" height="404" frameX="-11" frameY="0" frameWidth="225" frameHeight="404"/>
+</TextureAtlas>

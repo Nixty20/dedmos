@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grunt hands.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grunt hands instance 10000" x="16" y="16" width="325" height="77"/>
+	<SubTexture name="grunt hands instance 10001" x="16" y="16" width="325" height="77"/>
+	<SubTexture name="grunt hands instance 10002" x="16" y="106" width="308" height="77" frameX="-7" frameY="0" frameWidth="325" frameHeight="77"/>
+	<SubTexture name="grunt hands instance 10003" x="16" y="106" width="308" height="77" frameX="-7" frameY="0" frameWidth="325" frameHeight="77"/>
+	<SubTexture name="grunt hands instance 10004" x="16" y="196" width="299" height="77" frameX="-12" frameY="0" frameWidth="325" frameHeight="77"/>
+	<SubTexture name="grunt hands instance 10005" x="16" y="196" width="299" height="77" frameX="-12" frameY="0" frameWidth="325" frameHeight="77"/>
+	<SubTexture name="grunt hands instance 10006" x="16" y="286" width="295" height="77" frameX="-14" frameY="0" frameWidth="325" frameHeight="77"/>
+	<SubTexture name="grunt hands instance 10007" x="16" y="286" width="295" height="77" frameX="-14" frameY="0" frameWidth="325" frameHeight="77"/>
+	<SubTexture name="grunt hands instance 10008" x="16" y="376" width="293" height="77" frameX="-15" frameY="0" frameWidth="325" frameHeight="77"/>
+	<SubTexture name="grunt hands instance 10009" x="16" y="376" width="293" height="77" frameX="-15" frameY="0" frameWidth="325" frameHeight="77"/>
+	<SubTexture name="grunt hands instance 10010" x="16" y="376" width="293" height="77" frameX="-15" frameY="0" frameWidth="325" frameHeight="77"/>
+	<SubTexture name="grunt hands instance 10011" x="16" y="376" width="293" height="77" frameX="-15" frameY="0" frameWidth="325" frameHeight="77"/>
+	<SubTexture name="grunt hands instance 10012" x="16" y="376" width="293" height="77" frameX="-15" frameY="0" frameWidth="325" frameHeight="77"/>
+	<SubTexture name="grunt hands instance 10013" x="16" y="376" width="293" height="77" frameX="-15" frameY="0" frameWidth="325" frameHeight="77"/>
+</TextureAtlas>
